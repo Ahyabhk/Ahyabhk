@@ -1,7 +1,7 @@
 ### Hi 👋, I’m ahyab hashim
 
 ### -🔭 I’m currently working on AI, and its implementation in medical healthcare.
-### -🌱  seedling I'm currently learning specializing in intelligent medical systems.
+### -🌱   I'm currently learning specializing in intelligent medical systems.
 ### - 📫 How to reach me:https://t.me/Ahiab_HK 
 
 <!--
